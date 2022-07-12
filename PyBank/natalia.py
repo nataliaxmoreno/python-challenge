@@ -47,18 +47,3 @@ print(F'Greatest Increase in Profits:{month_max} (${max_value})')
 print(f'Greatest Decrease in Profits:{month_min} (${min_value})')
 
 
-
-
-       
-            
-
-    
-
-        
-
-
-    
-    
-
-
-
